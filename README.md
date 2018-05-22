@@ -18,16 +18,16 @@ To achieve this, the following steps are necessary:
 
 
 ## Gate types
-
 There are six gate types which are allowed in a netlist:
 
-**Gate type   Input ports   Output ports**
-  and           2             1
-  or            2             1
-  inv           1             1
-  xor           2             1
-  one           0             1
-  zero          0             1
+| Gate type | Input ports | Output ports |
+|:---------:|:-----------:|:------------:| 
+| and | 2 | 1
+| or  | 2 | 1
+| inv | 1 | 1
+| xor | 2 | 1
+| one | 0 | 1
+| zero | 0  | 1
 
 
 ## --
